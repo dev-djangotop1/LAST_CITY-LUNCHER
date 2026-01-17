@@ -1,0 +1,22 @@
+{
+  "servers": [
+    {
+      "number": 1,
+      "name": "LAST CITY | (#SV1)",
+      "ip": "188.127.241.74",
+      "port": 5403,
+      "online": 200,
+      "maxonline": 1000,
+      "password": false
+    },
+    {
+      "number": 2,
+      "name": "DEV-SERVER",
+      "ip": "51.83.189.15",
+      "port": 7777,
+      "online": 40,
+      "maxonline": 1000,
+      "password": true
+    }
+  ]
+}
