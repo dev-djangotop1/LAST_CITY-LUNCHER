@@ -3,7 +3,7 @@
     {
       "number": 1,
       "name": "LAST CITY | (#SV1)",
-      "ip": "51.38.205.167",
+      "ip": "51.38.205.167:22407",
       "port": 22407,
       "online": 200,
       "maxonline": 1000,
